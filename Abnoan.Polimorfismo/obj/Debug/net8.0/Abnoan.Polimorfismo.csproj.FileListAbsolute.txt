@@ -1,0 +1,14 @@
+c:\Users\abnoa\Abnoan.Polimorfismo\Abnoan.Polimorfismo\bin\Debug\net8.0\Abnoan.Polimorfismo.exe
+c:\Users\abnoa\Abnoan.Polimorfismo\Abnoan.Polimorfismo\bin\Debug\net8.0\Abnoan.Polimorfismo.deps.json
+c:\Users\abnoa\Abnoan.Polimorfismo\Abnoan.Polimorfismo\bin\Debug\net8.0\Abnoan.Polimorfismo.runtimeconfig.json
+c:\Users\abnoa\Abnoan.Polimorfismo\Abnoan.Polimorfismo\bin\Debug\net8.0\Abnoan.Polimorfismo.dll
+c:\Users\abnoa\Abnoan.Polimorfismo\Abnoan.Polimorfismo\bin\Debug\net8.0\Abnoan.Polimorfismo.pdb
+c:\Users\abnoa\Abnoan.Polimorfismo\Abnoan.Polimorfismo\obj\Debug\net8.0\Abnoan.Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\abnoa\Abnoan.Polimorfismo\Abnoan.Polimorfismo\obj\Debug\net8.0\Abnoan.Polimorfismo.AssemblyInfoInputs.cache
+c:\Users\abnoa\Abnoan.Polimorfismo\Abnoan.Polimorfismo\obj\Debug\net8.0\Abnoan.Polimorfismo.AssemblyInfo.cs
+c:\Users\abnoa\Abnoan.Polimorfismo\Abnoan.Polimorfismo\obj\Debug\net8.0\Abnoan.Polimorfismo.csproj.CoreCompileInputs.cache
+c:\Users\abnoa\Abnoan.Polimorfismo\Abnoan.Polimorfismo\obj\Debug\net8.0\Abnoan.Polimorfismo.dll
+c:\Users\abnoa\Abnoan.Polimorfismo\Abnoan.Polimorfismo\obj\Debug\net8.0\refint\Abnoan.Polimorfismo.dll
+c:\Users\abnoa\Abnoan.Polimorfismo\Abnoan.Polimorfismo\obj\Debug\net8.0\Abnoan.Polimorfismo.pdb
+c:\Users\abnoa\Abnoan.Polimorfismo\Abnoan.Polimorfismo\obj\Debug\net8.0\Abnoan.Polimorfismo.genruntimeconfig.cache
+c:\Users\abnoa\Abnoan.Polimorfismo\Abnoan.Polimorfismo\obj\Debug\net8.0\ref\Abnoan.Polimorfismo.dll

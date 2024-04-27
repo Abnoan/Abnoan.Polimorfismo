@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "Abnoan.Polimorfismo\\obj": true,
+    "Abnoan.Polimorfismo\\bin": true
+  }
+}
